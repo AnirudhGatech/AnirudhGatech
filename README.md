@@ -15,9 +15,9 @@
 
 📜 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐢𝐧:
 
-Oracle Cloud Infrastructure 2021 Certified Architect Associate✔️
-Oracle Cloud Data Management 2022 Foundations Certified Associate✔️
-Oracle Cloud Infrastructure Foundations 2021 Certified Associate✔️ 
+- Oracle Cloud Infrastructure 2021 Certified Architect Associate✔️
+- Oracle Cloud Data Management 2022 Foundations Certified Associate✔️
+- Oracle Cloud Infrastructure Foundations 2021 Certified Associate✔️ 
 
 
 🔍 My edge:

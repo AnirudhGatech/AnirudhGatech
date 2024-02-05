@@ -7,7 +7,7 @@
 - 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧: Kubernetes for Container management.
 - 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐚𝐬 𝐂𝐨𝐝𝐞 (𝐈𝐚𝐂): Terraform, Cloudformation.
 - 𝐂𝐈/𝐂𝐃: AWS CodePipeline, Jenkins.
-- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, C/C++, JAVA, JavaScript.
+- 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python, C/C++, Java, JavaScript.
 - 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠: Prometheus, CloudWatch.
 - 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠: Shell scripting for automating the Boring Stuff ! (Intermediate Level)
 - 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 GitHub, CodeCommit.

@@ -1,4 +1,4 @@
-👋 Hello, I'm Anirudh, dedicated and passionate MS CS graduate student at Georgia Institute of Technology with a strong affinity for software development and cloud technologies. Through extensive exposure to foundational concepts and their dynamic application across diverse projects, my passion for these fields has flourished. I am an avid learner driven by the desire to harness knowledge to tackle real-world industry challenges effectively. Actively looking for Summer 2024 internships in US.
+👋 Hello, I'm Anirudh, dedicated and passionate MS CS graduate student at Georgia Institute of Technology with a strong affinity for software development and cloud technologies. Through extensive exposure to foundational concepts and their dynamic application across diverse projects, my passion for these fields has flourished. I am an avid learner driven by the desire to harness knowledge to tackle real-world industry challenges effectively. Actively looking for Full-time Software Development and Cloud Engineering jobs in US starting June 2025.
  
 🛠️ I specialize in: 
 
